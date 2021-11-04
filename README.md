@@ -8,7 +8,7 @@
 ## • Some Stats because I like numbers 📈
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midas-sudo&custom_title=My%20Stats&show_icons=true&theme=dracula&hide_border=true&bg_color=0,0F2027,203A43,2C5364&layout=compact&title_color=f8c630)](https://github.com/Midas-sudo/github-readme-stats)
 
-## • Fo you to see my favourites
+## • For you to see my favourites
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Midas-sudo&show_icons=true&theme=dracula&hide_border=true&bg_color=0,2C5364,203A43,0F2027&layout=compact&title_color=f8c630)](https://github.com/anuraghazra/github-readme-stats)
 
 ## • Where you can find me
